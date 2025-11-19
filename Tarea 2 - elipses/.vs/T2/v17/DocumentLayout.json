@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica1-2-2025\\Tarea 2 - elipses\\",
+  "WorkspaceRootPath": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica-1-2025\\Tarea 2 - elipses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEEB3BBC-CFD9-4E29-9FCA-300E117BC351}|Proyecto1.vcxproj|C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica1-2-2025\\Tarea 2 - elipses\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EEEB3BBC-CFD9-4E29-9FCA-300E117BC351}|Proyecto1.vcxproj|C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica-1-2025\\Tarea 2 - elipses\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EEEB3BBC-CFD9-4E29-9FCA-300E117BC351}|Proyecto1.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica1-2-2025\\Tarea 2 - elipses\\src\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica-1-2025\\Tarea 2 - elipses\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica1-2-2025\\Tarea 2 - elipses\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\ereis\\OneDrive\\Documentos\\GitHub\\Grafica-1-2025\\Tarea 2 - elipses\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAALMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADMCAAAAAAAAAAAswI0CAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-17T14:40:50.142Z",
+              "WhenOpened": "2025-11-18T02:42:05.803Z",
               "EditorCaption": ""
             }
           ]
